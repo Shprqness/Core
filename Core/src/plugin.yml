@@ -1,0 +1,41 @@
+name: Core
+author: Shprqness
+description: Cool KIdZ cLuBB
+main: github.com.shprqness.Main
+version: 1.0
+
+commands:
+  vanish:
+    usage: /vanish
+    description: Vanishes you
+    permission: core.vanish
+    aliases: [v]
+  unvanish:
+    usage: /unvanish
+    description: unVanishes you
+    permission: core.vanish
+    aliases: [unv]
+  gmc:
+    usage: /gmc
+    description: shortcut for /gamemode 1
+    permission: core.gmc
+  gmsp:
+    usage: /gmsp
+    description: shortcut for /gamemode 2
+    permission: core.gmsp
+  gms:
+    usage: /gms
+    description: shortcut for /gamemode 0
+    permission: core.gms
+  give:
+    usage: /give
+    description: give command
+    permission: core.give
+  fly:
+    usage: /fly
+    description: enable / disable flight
+    permission: core.fly
+  heal:
+    usage: /heal
+    description: heal and hunger
+    permission: core.heal
