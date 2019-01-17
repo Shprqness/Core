@@ -2,3 +2,5 @@ This is a core for HCF servers and Minigame servers, its simple and i think its 
 #8976
 
 Permission Granted to TrapHQ to Upload to public archives. 
+
+https://www.spigotmc.org/resources/core.64072/ - Compiled Version
