@@ -4,3 +4,5 @@ This is a core for HCF servers and Minigame servers, its simple and i think its 
 
 
 https://www.spigotmc.org/resources/core.64072/ - Compiled Version
+
+i am 8a3?
